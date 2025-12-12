@@ -279,6 +279,8 @@ ip route add default via 192.168.1.1
 GNU General Public License v3.0
 
 This project uses components with their own licenses:
+
 * Linux Kernel: GPL v2
 * BusyBox: GPL v2
+
 See individual component licenses for details.
