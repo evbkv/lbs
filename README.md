@@ -11,13 +11,13 @@ A minimal, custom-built Linux operating system designed for educational purposes
 
 ## Features
 
-* **Minimal Linux Kernel** (~10-20MB) with essential drivers
+* **Minimal Linux Kernel** (~2MB) with essential drivers
 * **BusyBox** (statically linked) providing Unix utilities in a single binary
 * **System V init** for traditional service management
 * **Network stack** with Ethernet support (e1000 driver for virtualization)
 * **Basic filesystem** with standard Unix directory hierarchy
 * **Virtualization-ready** for QEMU and VirtualBox
-* **Small footprint** (~50MB total) suitable for low-power hardware
+* **Small footprint** (~15MB total) suitable for low-power hardware
 
 ## Use Cases
 
@@ -284,3 +284,4 @@ This project uses components with their own licenses:
 * BusyBox: GPL v2
 
 See individual component licenses for details.
+
