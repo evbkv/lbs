@@ -1,4 +1,4 @@
-# Minimal Linux + BusyBox + SysV System
+# Minimal Linux + BusyBox + SysV Init
 
 A minimal, custom-built Linux operating system designed for educational purposes and lightweight deployment. This project demonstrates how to build a functional Linux system from scratch using the Linux kernel, BusyBox utilities, and System V init.
 
@@ -284,4 +284,5 @@ This project uses components with their own licenses:
 * BusyBox: GPL v2
 
 See individual component licenses for details.
+
 
